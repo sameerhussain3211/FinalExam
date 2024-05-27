@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383535569508",
+    "project_id": "finalexam-20be8",
+    "storage_bucket": "finalexam-20be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383535569508:android:b39da90b29bedcd4941d71",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjl53pSzfQHdbHlenfjNwquOXO1lJiVkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
